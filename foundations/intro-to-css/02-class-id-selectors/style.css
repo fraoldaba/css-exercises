@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd-number {
     background-color: rgb(240, 128, 128);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second-element {
@@ -9,11 +9,10 @@
     font-size: 36px;
 }
 
-.third-elemnt {
+.font-adjust {
     font-size: 24px;
 }
 #fourth-element {
     background-color: rgb(140, 240, 140);
-    font-size: 24px;
     font-weight: bold;
 }
